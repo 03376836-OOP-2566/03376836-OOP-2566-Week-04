@@ -1,3 +1,4 @@
+```plantuml   
 @startuml
 class  Person{
 -Name
@@ -24,4 +25,7 @@ Person <|-- Teacher
 Person <|-- Student
 Person <|-- HouseKeeper
 Person <|-- Guard
-@enduml  #Sittha Klaphanich
+@enduml
+#Sittha Klaphanich
+```
+![](./image/image.png)

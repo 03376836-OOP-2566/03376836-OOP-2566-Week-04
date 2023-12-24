@@ -1,0 +1,28 @@
+## 65030289 นางสาว อัญชิสา เพชรน้ย
+
+class  Person{
+-Name
+-ID
++Tellname()
+}
+
+class Teacher{
+Department
+Teach()
+}
+class Student{
+Stuid ID
+Study()
+}
+class HouseKeeper{
+compang
+cleaning()
+}
+class Guard{
+Safety()
+}
+Person <|-- Teacher
+Person <|-- Student
+Person <|-- HouseKeeper
+Person <|-- Guard
+@enduml  #Sittha Klaphanich
